@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 9c4ee0076c4899f4bab49faf61544971
+timeCreated: 1479916620
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Ground: {fileID: 1000010577518042, guid: 2aae3f5fdf301214c86e2dd2d4064855, type: 2}
+  - MrsClaus: {fileID: 170436, guid: 7260924be24ce0040821658833df10e2, type: 2}
+  - End: {fileID: 145196, guid: b89b5363f652d92499426bb2f16efcae, type: 2}
+  - SmallRock: {fileID: 1000011265914488, guid: a63ffcfdceaf84f4f9936aa9ab8f4d4c,
+      type: 2}
+  - Tree: {fileID: 1000010058841204, guid: 4dcf4ef407fd6204f9c082197d7e50a2, type: 2}
+  - BigRock: {fileID: 1000014075999788, guid: 203b24abb33b999408adc247a267fe74, type: 2}
+  - Snowman: {fileID: 1000010618009950, guid: 5484509e94b06534596528e14549b943, type: 2}
+  - Spikes: {fileID: 1000010826840868, guid: af9dcd94979c9234aa20dc966bea155c, type: 2}
+  - Pits: {fileID: 110840, guid: 591f3dd14b91edc45b2ea40b133d9f17, type: 2}
+  - Ice: {fileID: 1000010811346746, guid: ffd2f47f0df8d4f4fa36961743baa7a7, type: 2}
+  - Elf: {fileID: 1000013577593608, guid: 77a2481bc1917e940ad55a2a56ddf770, type: 2}
+  - PolarBear: {fileID: 1000012923626904, guid: 725a2b57d91d7374dafe671de12debc6,
+      type: 2}
+  - Penguin: {fileID: 1000010187344528, guid: cad59ce2204521c4287c749ffa85d2d3, type: 2}
+  - GingerbreadMan: {fileID: 1000011488679476, guid: be51426db65fef94c8fdb99e08e60d58,
+      type: 2}
+  - Wolf: {fileID: 1000011344313274, guid: cd69bd4cb1b08dd4280ad868383b7972, type: 2}
+  - Krampus: {fileID: 1000013140047118, guid: b6a2061ae91ebc14e8e4f9820ebae7af, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
